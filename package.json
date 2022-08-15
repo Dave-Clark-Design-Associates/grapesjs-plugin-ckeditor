@@ -31,7 +31,7 @@
   },
   "peerDependencies": {
     "grapesjs": "0.x",
-    "ckeditor": "4.x"
+    "ckeditor": "github:Dave-Clark-Design-Associates/ckeditor4#rt-1.8.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
